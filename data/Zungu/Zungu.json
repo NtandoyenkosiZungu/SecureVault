@@ -1,0 +1,46 @@
+{
+    "accounts": [
+        {
+            "email": "gAAAAABnOcDFk2ImsUvX5a0oBBsP5BZETawRAIgDI1LAXFXbBOuGSmpJCiN1gHUS6LkEWfYjfUyxweN7TVLWizYhw_K9zm0T1plCzy1KLb5KNCcLaLvMfWE=",
+            "username": "gAAAAABnP24vr503W44jgyD2oCi5NL5fUZILJQTEVbJCMDlWJpp46O2zW-71VtPEoz3CV3kmClrXtSy2HlAehBUr0FaJLYRg-Q==",
+            "password": "$2b$12$3GWly1MCyBtz8wvcIT0cbu1KNhpS0fhhhfOTj2w/IWxsPMzPA23Xi",
+            "salt": "$2b$12$VfdlrrKRPuYG.tQQFCIPuO",
+            "email/number": "gAAAAABnP24vBcH2lPLELaHROo8bYR9oOv_t2-BMKidRcJ1yqqzGI79726iB9Ay8UyCP2Xn9Ik81IJ0KQsROxzRJarNo--dtqo_N-qKMi1RCU-AfMlN1U-NRD22m0_FVP8SxX_eZbKBjCgfzir46OedHSmbkrtwMD60hBimEd3YdsBw16aDdOcLTW8fkqSxKSgioj0h7Y7lM8XtbJPFKbSej2ybEqs6NKDTVpB72LvRYo4dOKaNTsS0="
+        },
+        {
+            "service": "gAAAAABnP24ve38vCsr_6l2Pv1SVn92WO_NmcDJmKXbDF0HPauimB-oa-lkIGQv07j34Bstzlk_DfhD18dabUSTf-Ws1UQkC2g==",
+            "domain": "gAAAAABnP24vlmwTeR_6oHDuth9XiBGpHHFyDU0xN5DHC1vQr1FevCxnpTN4DodptbX7FM5tWv_AR6BMEn5viXF-gLVclKL2PQ==",
+            "username": "gAAAAABnP24v2hGBl8vW9qiPF2owe-uy7Dl-iEGFK2JviG0OjwGrLNzVUejTwQ7Xw5ctTT_Ai2F5okQNTf_wMnAXqk8-BylmBA==",
+            "password": "gAAAAABnP24vLuf1VJul4jSZJ2Zd3LCOGkhSkugqHM633jRTsOgiGo0bS6fHO3XvnebSbRaROe13RS2UN_BGnrbLT0g0_y7SsA==",
+            "code": "gAAAAABnP24vVyRdGoLHzhHGj5QZNv8E-j1OBsaoKyd0bNRtmXKMrMFj5NTk7GN2ZmGNSXrDgpdTP3I2e3-LuE5DIyLZqJu6FQ=="
+        },
+        {
+            "service": "gAAAAABnP24vUQ6aZGAzBGEdR7ELlJiiYzLrcr_ryoIyMCFXGDzDBsgo0CIffXyyX4Wa2oOnBYuLJ7pSuq3VJaODotrzSaC9vA==",
+            "domain": "gAAAAABnP24vfqiSD-UlX7_DSS5_L2wwZUbYBRMi7ojmRF2TSu8M0Va3Omp6HV2yxJJC_RhAferuXt55zcU1pxTnRbyEj1jLERykWGiQoNzjo5CGTHXcj5c=",
+            "username": "gAAAAABnP24vNv9kCcZGFXlgJTQJxk1O-YwLHT-hS4XuSpoTlLjQaGjxTBNAr0wn_bIah9kmsVIo1mDA1P-jzVkLWxuX8r-QHg==",
+            "password": "gAAAAABnP24v7TkTjOKBODBqOvMFwZSs9tIpxSqJCQszEruxFgGa_NKeI3Q6XN8_xV8R_gd6GqeKksa_hFnDs5OmhUGMOUqt30UExw0_7rgKVTdCPy2QjLI=",
+            "code": "gAAAAABnP24vr72lTGasyk8IShGQr56COeF5eVsqR1u6ICqq1IlwVYvbK100yVBKkNrM2b9HTx-9wqcyMCjYSKzp7-gfHVdIaw=="
+        },
+        {
+            "service": "gAAAAABnP24vSk-0QGHsZwrRKq8iTKzI5JszSDAnMUcpu1Qzg0o72UlNR8g287WtTUYy_a5kkJRFik6epNVJ7joDC-NdqMQS4g==",
+            "domain": "gAAAAABnP24vuyaWyhkZykdKpi6yGZ9znHlRVpEJ8y8j0sX9lurwTK29sDj3mOEJ-vLWT9b8HJ4oXV8QNsyNWwufDiBYSKIoKiLJpAOPeRfuuqMZooLv5Z4=",
+            "username": "gAAAAABnP24vnj0hblJbFQV35qFG3BLx3IVBF_Wl24VYUAeHZWh31YCf4SkfLeQhSrEqq-ZKHe4Im16SvckxbH8tkj-KavrF8A==",
+            "password": "gAAAAABnP24vGmNynVRszF3w58yp1PnfDHkIXWpahekJVb4C1VlHtjRo2ftml6mgEA9OVrBX9B0yAjmkbLQKM36Q6adRpgezV9UuyR899zOP74hncGzagrg=",
+            "code": "gAAAAABnP24vQOAybrHS4yEzVCJA3NTMxbJt3cDyIkE_sPqTxVGjsNbfxPz3ZpOC-DfThZn-UVw3YALqkK-hSuKPygjjGZb8AQ=="
+        },
+        {
+            "service": "gAAAAABnP24vd4eaYrD35sri_KOFZYTnHwQU73QyLUqYBhJrv50Wlye6PxIZGYfFHz2PdgW7PRxcBn0t6MrzFtE5rc7RDr8AyQ==",
+            "domain": "gAAAAABnP24vtc96RdnDbhOaVpWikWkyCAOFusaW8nA-EOH3-4mK-SO3I0xywklXKyUx_7-D8ASYcJPaLMRH8v-ZFXBMVqtTzg731ZaW5vOeFPi78mYSNI0=",
+            "username": "gAAAAABnP24vtVjvb-8GNVOFfJnuM46woht7ZILiZ9hRFCmVauQQDNNIgImLuX5Gl6foJwN_EDpwSlFE4qeW6BkbpLr-qrSQoQ==",
+            "password": "gAAAAABnP24vsWigql-7NHQqd7VX3G46NvsnjXmJdQUlbT-ba5vnfi1uWVu8i16ilCFxqpDRcRO4joE6RyduUsMY8JV5vfnRvQ==",
+            "code": "gAAAAABnP24vbI0m94gzAWYBHv6yApvmi4cdVtGmJOWIXmVGxyvfPtMXvc3LrRNfFeS5jVMpRiOPPjRZ4BkmOxbVocE0_Swc3g=="
+        },
+        {
+            "service": "gAAAAABnP24vT_KTw3aXzHz9uF_Xv-0PLyFvAPL8EPHlmeXzlHkoXLUo_ZudGwU2YP6sx-cJuidiaJ5Ge8LIHliAks0Aemfz4A==",
+            "domain": "gAAAAABnP24vdHFwg4tJxpWOxEhThiAQmNdSz4WUohvfVoraR1IhuDcl0T5KQi5boUcn5pJkoZWH5B9j0AYTefgeq98833SbjkL3xlZEcU4KqQ7CP0YXrBY=",
+            "username": "gAAAAABnP24vFQ98orZ2MN9ViuDmNQNhGJlqZz8JdQlQns-qFetyieurRsODHf_R9njnb2SRYJsKm5j6uzu9yHiXb0CqFz4RXQ==",
+            "password": "gAAAAABnP24vDkHycER4SNE4jD387s9_a-_9lSvB7M2utZkFmZoR_ifjwnk_Zc1522M6BYG5b9U9gm9aSKGoLkKVg5NCyL8q9Q==",
+            "code": "gAAAAABnP24vQZhqRJMQBTPlp-YJKI4CR28JHb96HFo0UimIZhMp-B1WxQ8ABS2vm-1cK92lm2_Umh9lMnGT8Z1iLSckvJaCVQ=="
+        }
+    ]
+}
