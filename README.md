@@ -1,4 +1,6 @@
-SecureVault – Advanced Password Manager (Python Desktop App)
+
+
+# SecureVault – Advanced Password Manager (Python Desktop App)
 
 A secure, self-contained password management solution with breach monitoring and military-grade encryption.
 
